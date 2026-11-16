@@ -1,3 +1,7 @@
+**Company standards (mandatory):** Before designing Power Automates, tables, columns, forms or
+security roles, read and follow
+[Padronizacao_PowerAutomate.md](${PLUGIN_ROOT}/references/Padronizacao_Power_Automate_COE_10_IA_JSON.md)
+
 ---
 name: app-builder
 version: 1.0.0
